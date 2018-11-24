@@ -20,4 +20,4 @@ bot.on('message'), (message) => {
       message.channel.senMessage('Този бот е направен от danino123#5250');
     }
 };
-bot.login('NTAxMDI4NTg5MTAyNDMyMjg3.DtrbbQ.0MGBMRyobB-OColNfMG6LSvWYw0');
+bot.login('NTAxMDI4NTg5MTAyNDMyMjg3.Dtrbew.mDZUypHa1ofYXL6nFvh04_REQj0');
